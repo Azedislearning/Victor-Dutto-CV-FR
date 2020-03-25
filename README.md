@@ -9,6 +9,8 @@ J'ai utilisé une combinaison de cvtag et de la
 bibli fontawesome dans outils
 Et j'ai conservé le marqueur temporel sur tout le sous-document de gauche
 
+
+
 README d'Alta CV
 
 # AltaCV, yet another LaTeX CV/Résumé class
